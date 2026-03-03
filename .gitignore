@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
-
+/trilha-api/src/main/resources/application-local.properties
+/trilha-api/targent/
+.env
 # Log file
 *.log
 
