@@ -9,7 +9,7 @@ public class AlunoCreateRequest {
     private String email;
 
     public AlunoCreateRequest(){
-
+       
     }
 
     public String getNome() {
@@ -22,6 +22,9 @@ public class AlunoCreateRequest {
     
     public String getCurso() {
         return curso;
+    }
+    public String getEmail() {
+        return email;
     }
     public void setNome(String nome) {
         this.nome = nome;

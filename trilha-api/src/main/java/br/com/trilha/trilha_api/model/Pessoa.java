@@ -7,7 +7,8 @@ public abstract class Pessoa {
     private String nome  ;
     private LocalDate dataNascimento;
 
-    public Pessoa (String nome, LocalDate dataNascimento) {
+    public Pessoa (int id ,String nome, LocalDate dataNascimento) {
+    this.id=id;
     this.nome=nome;
     this.dataNascimento=dataNascimento;
 
