@@ -8,14 +8,19 @@ public class Professor extends Pessoa {
     private String curso;
     private boolean status;
 
-    public Professor (String nome,LocalDate dataNacimento,String descricao, String curso, boolean status){
-        super(nome,dataNacimento);
+    public Professor (int id,String nome,LocalDate dataNacimento,String descricao, String curso, boolean status){
+        super( id,nome,dataNacimento);
         this.curso=curso;
         this.descricao=descricao;
         this.status=status;
     }
 
-
+    public Professor (String nome,LocalDate dataNacimento,String descricao, String curso, boolean status){
+        super( nome,dataNacimento);
+        this.curso=curso;
+        this.descricao=descricao;
+        this.status=status;
+    }
    
     public String getCurso() {
         return curso;

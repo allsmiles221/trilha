@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS aluno (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    dataNascimento DATE NOT NULL,
+    curso VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL
+);
