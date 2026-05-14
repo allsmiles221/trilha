@@ -37,6 +37,6 @@ Funcionalidades futuras:
 
 Durante o desenvolvimento deste projeto, também compartilhei alguns aprendizados e etapas no LinkedIn:
 
-- [Teste inicial da API de cadastro de alunos]([COLE_O_LINK_AQUI](https://www.linkedin.com/posts/alefe-patrick-b86431260_backend-springboot-api-ugcPost-7460622969002762241-7_kc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAisFYBVnCj6GcYnAfZ6Lpdkog9NnvBahI))
+- [Teste inicial da API de cadastro de alunos](https://www.linkedin.com/posts/alefe-patrick-b86431260_backend-springboot-api-ugcPost-7460622969002762241-7_kc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAisFYBVnCj6GcYnAfZ6Lpdkog9NnvBahI)
 - [Meu primeiro projeto de Banco de Dados](https://www.linkedin.com/posts/alefe-patrick-b86431260_bancodedados-mysql-docker-ugcPost-7436445014651453440-Kn9-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAisFYBVnCj6GcYnAfZ6Lpdkog9NnvBahI)
   
